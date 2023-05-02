@@ -13,8 +13,7 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 <img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20">
 
-<a href="https://www.github.com/sosso21" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sosso21?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+<a href="https://www.github.com/sosso21" target="_blank" rel="noreferrer"></a>
 
 ### Skills
 
