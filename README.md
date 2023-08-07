@@ -27,7 +27,7 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 - 🔭 I’m currently working on [Communicable Disease Prediction using DL](https://github.com/nalinrajendran/dengue-forecast)
 
-- 🌱 I’m currently learning **CNN(Convolutional Neural Nets),RL(Reinforcement Learning) and NLP (Natural Language Processing)**
+- 🌱 I’m currently exploring more on **LLMs and NLP (Natural Language Processing)**
 
 - 👯 I’m looking to collaborate on **more ML and DL projects**
 
@@ -37,7 +37,7 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **nalinrajendran1@gmail.com**
+- 📫 How to reach me **nalinrajendran@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/nalinrajendran/me/blob/main/images/Nalin's%20Resume.pdf](https://github.com/nalinrajendran/me/blob/main/images/Nalin's%20Resume.pdf)
 
