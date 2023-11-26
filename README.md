@@ -52,4 +52,3 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalinrajendran&show_icons=true&locale=en&layout=compact" alt="nalinrajendran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalinrajendran&show_icons=true&locale=en" alt="nalinrajendran" /></p>
