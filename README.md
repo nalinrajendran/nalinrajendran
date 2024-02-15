@@ -25,7 +25,6 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 
 
-- 🔭 I’m currently working on [Communicable Disease Prediction using DL](https://github.com/nalinrajendran/dengue-forecast)
 
 - 🌱 I’m currently exploring more on **LLMs and NLP (Natural Language Processing)**
 
