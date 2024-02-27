@@ -7,10 +7,6 @@
 
 
 
-I am excited to apply my skills and knowledge as a web developer and machine learning engineer. With a strong background in programming languages such as Python, JavaScript, and Node.js, as well as experience in machine learning, web development, and data analysis, I am confident in my ability to deliver outstanding results. My experience in Linux and virtual machines and understanding of cyber security further enhances my skillset. I am eager to continue learning and growing in this field, and am excited for the opportunity to make a positive impact.
-
-
-
 <img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20">
 
 <a href="https://www.github.com/sosso21" target="_blank" rel="noreferrer"></a>
