@@ -8,10 +8,9 @@
 
 ### About Me
 
-- 🎓 I recently graduated with a B.Tech in AI from Amrita Vishwa Vidyapeetham, Coimbatore.
-- 💼 I'm currently working as a Software Developer at **Cisco**.
+- 💼 SDE II at **Cisco**.
 - 🌱 I’m continuously learning and exploring more about **LLMs, NLP (Natural Language Processing)**, and software development.
-- 🤖 Check out my portfolio [https://nalinrajendran.github.io/me/](https://nalinrajendran.github.io/me/).
+- 🤖 Check out my portfolio [https://nashcore.dev](https://nashcore.dev).
 - 📫 How to reach me: **nalinrajendran@gmail.com**.
 - 📄 Know about my experiences [https://github.com/nalinrajendran/me/blob/main/images/Nalin's%20Resume.pdf](https://github.com/nalinrajendran/me/blob/main/images/Nalin's%20Resume.pdf).
 
